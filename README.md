@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ShuitaMandhan12
+- 👀 I’m interested in tech-related projects including web development, app development, and AI.
+- 🌱 I’m currently learning advanced web development frameworks and AI integration.
+- 💞️ I’m looking to collaborate on innovative web development projects and AI-driven applications.
+- 📫 How to reach me: You can email me at shuitamandhan585@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/shuita-mandhan-b14a59254/.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love solving complex coding challenges and enjoy participating in hackathons!
