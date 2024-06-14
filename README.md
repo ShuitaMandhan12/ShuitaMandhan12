@@ -3,7 +3,7 @@
      My interest in technology began in high school when I took my first programming class. Since then, I have dedicated myself to learning and mastering various aspects of computer 
      science. I have worked on numerous projects that have honed my skills in web and app development. I am particularly fascinated by the potential of AI to transform industries and 
      improve lives.
-- 👀 I’m interested in tech-related projects including web development, app development, and AI.
+- 👀 I’m interested in tech-related projects including web development, app development, and AI. 
 - 🌱 Web Development: I am currently diving deeper into advanced frameworks like React, Angular, and Vue.js to create dynamic and responsive web applications.
 - 🌱 App Development: Exploring mobile app development using Flutter and React Native.
 - 🌱 AI Integration: Experimenting with integrating machine learning models into web applications to enhance functionality and user experience.
